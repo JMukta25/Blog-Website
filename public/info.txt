@@ -1,0 +1,6 @@
+when we download a project from git hub it will not contain node module as it is heavy so to gainit back type "npm install" 
+this command will look into package.json and install all the required dependencies
+in app.js is has a function app which return html code
+this is not html code but JSX .This JSX has className and not slass when the code in converted to html className get converted to className
+We cannot output a object and boolean
+We create a navbar.js file as a seperate componenet then import it in app.js and nest in somewhere within
